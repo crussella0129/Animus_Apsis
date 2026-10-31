@@ -1,4 +1,4 @@
-# Animus_Apsis
+# Animus_Periapsis
 
 Rust based, agent-human hybrid Distributed Version Control System (DCVS), based on the concepts of the Animus_Sprint_Loops recursive development system, CubiKan, array-test (both my repositories), with research on the best parts of Git, Jujitsu, Mercurial, and other DCVSs
 
